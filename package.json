@@ -10,7 +10,7 @@
   "author": "Francisco Olvera",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "prop-types": "^15.6.2",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
